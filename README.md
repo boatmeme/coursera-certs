@@ -64,4 +64,4 @@ Score: 99% [[Certificate]](https://github.com/boatmeme/coursera-certs/blob/maste
 Jeff Leek<br/>
 Johns Hopkins University<br/>
 January 2013<br/>
-Score: 93% [[Certificate]](https://github.com/boatmeme/coursera-certs/blob/master/ComputingForDataAnalysis.pdf?raw=true)
+Score: 93% [[Certificate]](https://github.com/boatmeme/coursera-certs/blob/master/DataAnalysis.pdf?raw=true)
