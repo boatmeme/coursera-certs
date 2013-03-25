@@ -20,7 +20,7 @@ Score: 92.7% [[Certificate]](https://github.com/boatmeme/coursera-certs/blob/mas
 
 --------------------
 <img src="http://openclassroom.stanford.edu/MainFolder/courses/IntroToDatabases/dblogo.png" height="180" width="240" align="left">
-### Introduction to Databases (Website no longer available)
+### [Introduction to Databases] (http://class2go.stanford.edu/db/Winter2013)
 Jennifer Widom<br/>
 Stanford University<br/>
 October 2011<br/>
