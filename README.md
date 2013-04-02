@@ -65,3 +65,11 @@ Jeff Leek<br/>
 Johns Hopkins University<br/>
 January 2013<br/>
 Score: 93% [[Certificate]](https://github.com/boatmeme/coursera-certs/blob/master/DataAnalysis.pdf?raw=true)
+--------------------
+<img src="https://s3.amazonaws.com/coursera/topics/proglang/small-icon.hover.png" align="left">
+### [Programming Languages] (https://www.coursera.org/course/proglang)
+Dan Grossman<br/>
+University of Washington<br/>
+January 2013<br/>
+Score: 98% [[Certificate]](https://github.com/boatmeme/coursera-certs/blob/master/ProgrammingLanguages.pdf?raw=true)
+
